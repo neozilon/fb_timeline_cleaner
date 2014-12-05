@@ -8,14 +8,14 @@ Delete, unfriend, hide and remove most content/posts/photos from facebook.
 This script require greasmonkey, also it remove only about 90% of the content, which is still a good start.
 
 How to use :
-> Install Firefox or GoogleChrome/Chromimum (if you don't)
-> Install Greasemonkey (on Firefox) and Tampermonkey (on GoogleChrome/Chromium)
-> Add the script to your *monkey scripts
-> Visit https://m.facebook.com
-> Click on "Profile" under your name
-> Click on activity log
-> Visit the section your want to delete
-> Enable the script
+1. Install Firefox or GoogleChrome/Chromimum (if you don't)
+2. Install Greasemonkey (on Firefox) and Tampermonkey (on GoogleChrome/Chromium)
+3. Add the script to your *monkey scripts
+4. Visit https://m.facebook.com
+5. Click on "Profile" under your name
+6. Click on activity log
+7. Visit the section your want to delete
+8. Enable the script
 
 
 You can visit specific sections or your activity logs by using the filter options in Facebook.
